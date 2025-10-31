@@ -48,8 +48,11 @@ A simple and elegant web interface to manage your OVH Discovery MongoDB database
 git clone https://github.com/stefan-frenchies/MongOVHadmInterface.git
 
 Placez le dossier dans votre serveur local (ex: htdocs ou www)
-Assurez-vous que MongoDB est installé et lancé sur localhost:27017
 Ouvrez index.php dans votre navigateur
+creer un fichier .env a la racine avec les informations suivantes :
+MONGO_USER=YOURADMINUSER
+MONGO_PASS=YOURADMINPASSWORD
+MONGO_HOST=YOUROVHMONGODBURI
 
 Ce projet est open-source et libre d'utilisation.
 Développé avec ❤️ par Stephane
@@ -62,7 +65,11 @@ Clone the repository:
 git clone https://github.com/stefan-frenchies/MongOVHadmInterface.git
 
 Place the folder in your local server (e.g. htdocs or www)
-Make sure MongoDB is installed and running on localhost:27017
+create a file nameds .env on root folder with those info:
+MONGO_USER=YOURADMINUSER
+MONGO_PASS=YOURADMINPASSWORD
+MONGO_HOST=YOUROVHMONGODBURI
+
 Open index.php in your browser
 
 
