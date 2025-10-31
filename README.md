@@ -31,9 +31,9 @@ A simple and elegant web interface to manage your OVH Discovery MongoDB database
 ## 📦 Structure du projet / Project Structure
 
 
-![Structure MongoDB Admin](https://github.com/stefan-frenchies/MongOVHadmInterface/MongOVHadmin.png)
+![Structure MongoDB Admin](assets/MongOVHadmin.png)
 
-![Interface MongoDB Admin](https://github.com/stefan-frenchies/MongOVHadmInterface/MongOVHadmInterface.png)
+![Interface MongoDB Admin](assets/MongOVHadmInterface.png)
 
 
 ---
