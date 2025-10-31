@@ -58,7 +58,7 @@ Ce projet est open-source et libre d'utilisation.
 Développé avec ❤️ par Stephane
 
 
-### GB
+### 🇬🇧
 Clone the repository:
 ```bash
 
