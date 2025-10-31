@@ -2,9 +2,9 @@
 OVH Discovery Mongo DB Interface
 # 🛠️ Interface MongoDB Admin / MongoDB Admin Interface
 
-Une interface web simple et élégante pour gérer vos bases MongoDB en local.
+Une interface web simple et élégante pour gérer vos bases MongoDB OVH Discovery.
 
-A simple and elegant web interface to manage your local MongoDB databases.
+A simple and elegant web interface to manage your OVH Discovery MongoDB databases.
 
 ---
 
